@@ -1,4 +1,4 @@
-# Nova Gallery 
+# Nova Gallery v.0.1
 
 Photo gallery tool for Laravel Nova.
 
